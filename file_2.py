@@ -1,2 +1,2 @@
 Hello
-\nHi, how are you
+Hi, how are you
